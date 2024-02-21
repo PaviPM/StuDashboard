@@ -1,0 +1,16 @@
+.CustomerForm{
+    position: absolute;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.435);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.form{
+    margin-top: 50px;
+}
+
+

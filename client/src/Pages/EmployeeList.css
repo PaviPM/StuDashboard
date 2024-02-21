@@ -1,0 +1,87 @@
+.EmployeeList{
+    position: absolute;
+    width: 200%;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.435);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-left: 200px;
+    margin-top: 10px;
+    height: 800px;
+}
+.container{
+    position: absolute;
+    border: 0px solid black;
+    width: 600px;
+}
+.first {
+    width: 500px;
+    height: 100px;
+    background-color: whitesmoke;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+    box-shadow: rgba(2, 30, 82, 0.1) 0px 4px 12px;
+}
+#add {
+    margin-left: -40px;
+    font-size: 50px;
+    padding: 25px;
+    color: orange;
+    margin-right: 20px;
+    background-color:  rgb(61, 184, 23);
+    box-shadow: rgba(2, 30, 82, 0.1) 0px 4px 12px;
+}
+#view{
+    margin-left: -40px;
+    padding: 25px;
+    color: orange;
+    margin-right: 20px;
+    background-color: rgb(15, 237, 241);
+    box-shadow: rgba(2, 30, 82, 0.1) 0px 4px 12px;
+    font-size: 50px;
+}
+.second{
+    width: 500px;
+    padding-right: 10px;
+    height: 100px;
+    background-color: whitesmoke;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    box-shadow: rgba(2, 30, 82, 0.1) 0px 4px 12px;
+    cursor: pointer;
+}
+div .inputtype{
+    position: absolute;
+   margin-top: 150px;
+   width: 900px;
+}
+
+.EmployeeTable{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 250px;
+    margin-left: 0px;
+}
+.EmployeeTable th,
+.EmployeeTable td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 300;
+}
+.EmployeeTable th{
+    background-color: gray;
+    color: white;
+}
+.head{
+    margin-right: 1600px;
+}
